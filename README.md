@@ -1,7 +1,5 @@
 <h1 align="center">CryptoApp</h1>
 
-<h2 align="center">Simple application, it took an hour to create it</h2>
-
 - Instruments: **- API-JSON - UiKit - SnapKit - Github**
 
 - Pattern: **MVVM**
